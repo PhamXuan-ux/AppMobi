@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Money Care</string>
+    <string name="login">Đăng nhập</string>
+    <string name="anonymous_login">Đăng nhập ẩn danh</string>
+    <string name="dashboard">Trang chủ</string>
+    <string name="add_expense">Thêm giao dịch</string>
+    <string name="edit_expense">Sửa giao dịch</string>
+    <string name="budget">Ngân sách</string>
+    <string name="statistics">Thống kê</string>
+    <string name="logout">Đăng xuất</string>
+    <string name="amount">Số tiền</string>
+    <string name="category">Danh mục</string>
+    <string name="note">Ghi chú</string>
+    <string name="date">Ngày</string>
+    <string name="type">Loại</string>
+    <string name="save">Lưu</string>
+    <string name="delete">Xóa</string>
+    <string name="cancel">Hủy</string>
+    <string name="total_expenses">Tổng chi tiêu</string>
+    <string name="total_income">Tổng thu nhập</string>
+    <string name="balance">Số dư</string>
+    <string name="recent_transactions">Giao dịch gần đây</string>
+    <string name="budget_limit">Hạn mức</string>
+    <string name="budget_spent">Đã chi</string>
+    <string name="budget_remaining">Còn lại</string>
+    <string name="no_data">Chưa có dữ liệu</string>
+</resources>
